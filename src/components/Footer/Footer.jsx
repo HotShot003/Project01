@@ -49,10 +49,11 @@ const Footer = () => {
               </h1>
             </div>
             <p className="footer__logo-content">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consequuntur, distinctio, itaque reiciendis ab cupiditate harum ex
-              quam veniam, omnis expedita animi quibusdam obcaecati mollitia?
-              Delectus et ad illo recusandae temporibus?
+            Welcome to GoDrive Rental, your premier destination for peer-to-peer vehicle rentals.
+
+At GoDrive, we strive to provide you with a seamless and hassle-free rental experience. Whether you're looking for a car for your daily commute or an adventure-ready vehicle for a weekend getaway, we've got you covered.
+
+
             </p>
           </Col>
 
