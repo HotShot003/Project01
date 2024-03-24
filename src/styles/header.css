@@ -35,7 +35,8 @@
 }
 
 .header__top__right a:hover {
-  color: #fff;
+  color: #f9a826;
+  transition: 0.3s;
 }
 
 /* ============ header middle style =========== */
