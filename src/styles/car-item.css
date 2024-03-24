@@ -24,7 +24,10 @@
 }
 
 .car__item-btn a:hover {
-  color: #fff;
+  color: #666;
+  transition: 0.5s;
+  /* padding: 20px; */
+
 }
 .car__btn-details {
   background: #f9a826;
